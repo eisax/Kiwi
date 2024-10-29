@@ -7,6 +7,7 @@
 charts
 log/
 dist/
+temp_auto_push.bat
 build/
 .venv/
 uploads/
@@ -14,7 +15,8 @@ docs/source/*.dot
 docs/guide/target
 docs/target/
 .idea/
-.vscode/
 .cache/
 tcms/node_modules/
 tcms/static/js/bundle.js
+.gitignore
+branch_structure.json
