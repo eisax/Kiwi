@@ -14,7 +14,10 @@ docs/source/*.dot
 docs/guide/target
 docs/target/
 .idea/
-.vscode/
 .cache/
 tcms/node_modules/
 tcms/static/js/bundle.js
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
